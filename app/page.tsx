@@ -1,10 +1,10 @@
-import Gesture from '@/components/Gesture'
+import Scroll from '@/components/Scroll'
 import React from 'react'
 
 const page = () => {
   return (
     <div>
-      <Gesture />
+      <Scroll />
     </div>
   )
 }
